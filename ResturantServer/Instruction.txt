@@ -1,0 +1,6 @@
+﻿MicrosoftEntityframeworkCOre
+EntityframeworkCore tool
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.AspNetCore.Cors
+Microsoft.AspNetCore.Mvc.NewtonsoftJson
+-----------If cse.exe error occured install its: Install-Package Microsoft.Net.Compilers -Version 1.2.1 
